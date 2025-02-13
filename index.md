@@ -25,7 +25,7 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 <h2> <span style="color: #3498DB ;">Updates!</span> </h2> 
 
-- Paper selected for Talk at _XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface_.
+- Paper selected for Talk at _XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface_ at ZAS, Berlin.
 
 - Paper selected for Lightning Talk at _Amsterdam Colloquium 2024_.
 
