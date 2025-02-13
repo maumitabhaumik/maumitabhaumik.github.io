@@ -16,7 +16,7 @@ My research focuses on children's acquisition of language with special attention
 Logical expressions are very common in our everyday language, and yet we know very little about how they are understood and which factors play a role in their comprehension. Many ambiguities are yet to be resolved. I study logical expressions because they provide us with a window into the complex relationship between language and general human cognition. I am also interested in exploring how language and general cognitive faculties aid each other in their development in children. Particularly, the relation between pragmatic meaning comprehension and the human ability of the Theory of mind delights me very much. 
 I have experience using behavioral techniques for my studies, and I am keen on learning to use more advanced techniques.  
 
-When I am not working, I like to paint, arrange dry flowers, or cook some Bibimbap and enjoy a slice-of-life anime!  
+When I am not working, I like to paint, arrange dry flowers, or cook some Bibimbap and enjoy an anime!  
 
 &nbsp;  
 
