@@ -22,13 +22,11 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 <h2> <span style="color: #3498DB ;">Updates!</span> </h2> 
 
+- Paper selected for Talk at _XPRAG Fest 2025 -- Experiments on the Semantics/Pragmatics Interface_.
+
 - Paper selected for Lightning Talk at _Amsterdam Colloquium 2024_.
 
 - Poster presented at the _49th Annual Boston University Conference on Language Development (BUCLD-49)_. 
-
-- Poster selected for _AMLaP Asia 2024_.
-
-- Paper selected for the _AMPRA Graduate Student Travel Award_, 2024.
 
 &nbsp;  
  
