@@ -9,11 +9,14 @@ title: About me
   </body>
 </html> 
 
-Hello! I am a linguistics researcher based in India. I completed my Ph.D. in Linguistics from the Department of Linguistics and Contemporary English at the English and Foreign Languages University, Hyderabad. Before that, I obtained an M.A. in Linguistics from Jawaharlal Nehru University, New Delhi, in 2019.  
+Hello! I am a linguistics researcher based in India. I have recently completed my Ph.D. in Linguistics from the Department of Linguistics and Contemporary English at the English and Foreign Languages University, Hyderabad. Prior to that, I obtained an M.A. in Linguistics from Jawaharlal Nehru University, New Delhi, in 2019.  
 
-My research focuses on children's acquisition of language with special attention to their comprehension of meaning in verbal communication. However, my interest is not limited to studying children. I am equally intrigued by the study of meaning interpretation in grown adults. The intricate interplay between semantics and pragmatics in meaning comprehension is fascinating to me! I study the comprehension of ubiquitous logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and I use experimental methods to study them. 
+My research focuses on language processing in children and adults, with special attention to how they comprehend meaning in verbal communication.  I am particularly fascinated by the intricate interplay between semantics and pragmatics in meaning interpretation. I study the comprehension of ubiquitous logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and I use experimental methods to explore these processes. 
 
-Logical expressions are very common in our everyday language, and yet we know very little about how they are understood and which factors play a role in their comprehension. Many ambiguities are yet to be resolved. I study logical expressions because they provide us with a window into the complex relationship between language and general human cognition. I am also interested in exploring how language and general cognitive faculties aid each other in their development in children. Particularly, the relation between pragmatic meaning comprehension and the human ability of the Theory of mind delights me very much. 
+Logical expressions are ubiquitous in our everyday language, and yet much remains unknown about how they are understood and what factors influence their comprehension. Many ambiguities are yet to be resolved. I study logical expressions because they offer us a window into the complex relationship between language and human cognition. I am also interested in exploring how language and general cognitive faculties aid each other in their development in children. 
+
+<!-- Particularly, the relation between pragmatic meaning comprehension and the human ability of the Theory of mind delights me very much. -->
+
 I have experience using behavioral techniques for my studies, and I am keen on learning to use more advanced techniques.  
 
 When I am not working, I like to paint, arrange dry flowers, or cook some Bibimbap and enjoy an anime!  
