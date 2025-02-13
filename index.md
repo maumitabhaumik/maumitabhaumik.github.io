@@ -9,7 +9,7 @@ title: About me
   </body>
 </html> 
 
-Hello! I am a final year Ph.D. student in the Department of Linguistics and Contemporary English at the English and Foreign Languages University, Hyderabad, India. For my research, I am advised by Prof Shruti Sircar, Dr Utpal Lahiri, and Dr Meena Debashish. In 2019, I completed my M.A. in Linguistics at Jawaharlal Nehru University, New Delhi. 
+Hello! I am a linguistics researcher based in India. I completed my Ph.D. in Linguistics from the Department of Linguistics and Contemporary English at the English and Foreign Languages University, Hyderabad. Before that, I obtained an M.A. in Linguistics from Jawaharlal Nehru University, New Delhi, in 2019.  
 
 My research focuses on children's acquisition of language with special attention to their comprehension of meaning in verbal communication. However, my interest is not limited to studying children. I am equally intrigued by the study of meaning interpretation in grown adults. The intricate interplay between semantics and pragmatics in meaning comprehension is fascinating to me! I study the comprehension of ubiquitous logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and I use experimental methods to study them. 
 
