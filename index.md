@@ -11,9 +11,9 @@ title: About me
 
 Hello! I am a linguistics researcher based in India. I have recently completed my Ph.D. in Linguistics from the Department of Linguistics and Contemporary English at the English and Foreign Languages University, Hyderabad. Prior to that, I obtained an M.A. in Linguistics from Jawaharlal Nehru University, New Delhi, in 2019.  
 
-My research focuses on language processing in children and adults, with special attention to how they comprehend meaning in verbal communication.  I am particularly fascinated by the intricate interplay between semantics and pragmatics in meaning interpretation. I study the comprehension of ubiquitous logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and I use experimental methods to explore these processes. 
+My research focuses on language processing in children and adults, with special attention to their comprehension of meaning in verbal communication.  I am particularly fascinated by the intricate interplay between semantics and pragmatics in meaning interpretation. I study the comprehension of ubiquitous logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and I use experimental methods to explore these processes. 
 
-Logical expressions are ubiquitous in our everyday language, and yet much remains unknown about how they are understood and what factors influence their comprehension. Many ambiguities are yet to be resolved. I study logical expressions because they offer us a window into the complex relationship between language and human cognition. I am also interested in exploring how language and general cognitive faculties aid each other in their development in children. 
+Logical expressions are ubiquitous in our everyday language. Yet much remains unknown about how they are understood in both children and adults and what factors influence their comprehension. Many ambiguities are yet to be resolved. I study logical expressions because they offer us a window into the complex relationship between language and human cognition. I am also interested in exploring how language and general cognitive faculties aid each other in their development in children. 
 
 <!-- Particularly, the relation between pragmatic meaning comprehension and the human ability of the Theory of mind delights me very much. -->
 
