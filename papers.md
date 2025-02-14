@@ -5,11 +5,14 @@ title: Papers
 
  &nbsp;  
  
-<h3> <span style="color: #3498DB ;">Peer-reviewed publications </span> </h3> 
+<h3> <span style="color: #3498DB ;">Publications </span> </h3> 
+
 - Bengali children’s comprehension of linguistic disjunction: Access to the alternative.  [under revision]
+  
+- Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance. _In Proceedings of the 49th Boston University conference on language development_. Somerville, MA: Cascadilla Press. [to appear] 
 
  &nbsp;    
-<h3> <span style="color: #3498DB ;">Conference presentations </span> </h3> 
+<h3> <span style="color: #3498DB ;">Presentations </span> </h3> 
 
 - Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance. _49th Annual Boston University Conference on Language Development (BUCLD-49)_, Boston University, Boston, Massachusetts. November 7-10. [[Poster]()]
 
