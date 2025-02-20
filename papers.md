@@ -29,7 +29,7 @@ title: Papers
  &nbsp;    
 <h3> <span style="color: #3498DB ;">Invited talks </span> </h3> 
 
-- Role of alternative and relevance in children’s comprehension of scalar implicature in or-sentences. _Recursion Group. Language Acquisition Research Center_. University of Massachusetts Amherst, USA, January 23, 2025.
+- Role of alternative and relevance in children’s comprehension of scalar implicature in or-sentences. _Recursion Group. Language Acquisition Research Center_. University of Massachusetts Amherst, USA, January 23, 2025. [virtual] 
 
 - Pragmatic acquisition: Do children read between the lines? _An orientation program on research in Linguistics_. School of Language Sciences, The English and Foreign Languages University, Hyderabad, India, August 21-29, 2023. 
 
