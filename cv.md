@@ -12,7 +12,7 @@ title: CV
 </html>
 
 
-[click here](https://maumitabhaumik.github.io/Bhaumik_CV__2025.pdf)
+[click here](https://maumitabhaumik.github.io/Bhaumik_CV__2024.pdf)
 
 <h4>Click the above link to view my CV</h4> 
 
