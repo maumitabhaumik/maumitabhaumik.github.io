@@ -24,7 +24,7 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 <h2> <span style="color: #3498DB ;">Updates!</span> </h2> 
 
-- Paper selected for a Talk in the _main session_ at _Sinn und Bedeutung 30_ at Goethe University, Frankfurt. 
+- Paper selected for a Talk in the _main session_ at _Sinn und Bedeutung 30_ at Goethe University, Frankfurt, Germany. 
 
 - Paper selected for Talk at _XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface_ at ZAS, Berlin.
 
