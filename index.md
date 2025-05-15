@@ -28,9 +28,7 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 - Paper selected for Talk at _XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface_ at ZAS, Berlin.
 
-- Paper selected for Lightning Talk at _Amsterdam Colloquium 2024_.
-
-- Poster presented at the _49th Annual Boston University Conference on Language Development (BUCLD-49)_. 
+- Paper selected for Lightning Talk at _Amsterdam Colloquium 2024_. 
 
 &nbsp;  
  
