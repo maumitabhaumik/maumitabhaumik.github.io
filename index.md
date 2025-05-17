@@ -24,7 +24,7 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 <h2> <span style="color: #3498DB ;">Updates!</span> </h2> 
 
-- Manuscript accepted for publication at _First Language_. 
+- Manuscript accepted for publication in _First Language_. 
 
 - Paper accepted for a Talk at _Sinn und Bedeutung 30_. 
 
