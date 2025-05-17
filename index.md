@@ -28,9 +28,9 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 - Paper accepted for a Talk at _Sinn und Bedeutung 30_. 
 
-- Paper accepted for Talk at _XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface_ at ZAS, Berlin.
+- Paper accepted for a Talk at _XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface_ at ZAS, Berlin.
 
-- Paper accepted for Lightning Talk at _Amsterdam Colloquium 2024_. 
+- Paper accepted for a Lightning Talk at _Amsterdam Colloquium 2024_. 
 
 &nbsp;  
  
