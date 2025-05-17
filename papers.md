@@ -7,7 +7,7 @@ title: Papers
  
 <h3> <span style="color: #3498DB ;">Publications </span> </h3> 
 
-- Bengali children’s comprehension of linguistic disjunction: Access to the alternative.  [under revision]
+- Bengali-speaking children’s comprehension of disjunction.  [accepted]
   
 - Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance. In _Proceedings of the 49th Boston University conference on language development_. Somerville, MA: Cascadilla Press. [to appear] 
 
