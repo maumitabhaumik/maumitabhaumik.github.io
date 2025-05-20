@@ -32,20 +32,20 @@ title: Papers
 <h3> <span style="color: #3498DB ;">Presentations </span> </h3> 
 
 - Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance.
-   <li> Poster at the _49th Annual Boston University Conference on Language Development (BUCLD-49)_, Boston University. November. 2024. [[Poster]()] </li> 
+   <ul> <li> Poster at the _49th Annual Boston University Conference on Language Development (BUCLD-49)_, Boston University. November. 2024. [[Poster]()] </li> </ul>
 
 - Disjunction comprehension in preschool children: Does access to alternative help in implicature derivation?
    <ul> <li> Talk at the _40th Northwest Linguistics Conference (NWLC 2024)_, University of Washington. 2024.   [Paper] [online] </li></ul>
    <ul> <li> Talk at the _4th South Asian Forum on the Acquisition and Processing of Language (SAFAL)_, Indian Institute of Technology, Kanpur. 2023.   [Paper]  </li></ul>
 
 - Pragmatic inference is as immediate as literal interpretation: Importance of context and communicative intent.
-   <li> Talk at the _CogLingDays2022, Belgium-Netherlands Cognitive Linguistics Association (BeNeCLA)_, Tilburg University. 2022.   [Paper] </li>
+   <ul> <li> Talk at the _CogLingDays2022, Belgium-Netherlands Cognitive Linguistics Association (BeNeCLA)_, Tilburg University. 2022.   [Paper] </li></ul>
 
 - Reduction of context extension helps children compute implicature.
-   <li> Talk at the _12th Annual Budapest CEU Conference on Cognitive Development (BCCCD)_. Central European University, Budapest. 2022.   [Paper] [online] </li>
+   <ul> <li> Talk at the _12th Annual Budapest CEU Conference on Cognitive Development (BCCCD)_. Central European University, Budapest. 2022.   [Paper] [online] </li></ul>
 
 - Phonetic accommodation in English loan-words in Bengali (with Auromita Mitra, Ananya Mondal, and Indranil Dutta).
-   <li> Talk at the _National Conference on Phonetics: theoretical underpinnings and research explorations_. Department of Phonetics and Spoken English, The English and Foreign Languages University, Hyderabad. 2019.  [Paper] </li>
+   <ul> <li> Talk at the _National Conference on Phonetics: theoretical underpinnings and research explorations_. Department of Phonetics and Spoken English, The English and Foreign Languages University, Hyderabad. 2019.  [Paper] </li></ul>
 
  &nbsp;    
  
