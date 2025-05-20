@@ -29,7 +29,7 @@ title: Papers
    <ul> <li> Talk at the <em>12th Annual Budapest CEU Conference on Cognitive Development (BCCCD)</em>. Central European University, Budapest. 2022.   [Paper] [online] </li></ul>
 
 - Phonetic accommodation in English loan-words in Bengali (with Auromita Mitra, Ananya Mondal, and Indranil Dutta).
-   <ul> <li> Talk at the <em> National Conference on Phonetics: theoretical underpinnings and research explorations </em>. Department of Phonetics and Spoken English, The English and Foreign Languages University, Hyderabad. 2019.  [Paper] </li></ul>
+   <ul> <li> Talk at the <em>National Conference on Phonetics: theoretical underpinnings and research explorations</em>. Department of Phonetics and Spoken English, The English and Foreign Languages University, Hyderabad. 2019.  [Paper] </li></ul>
 
  &nbsp;    
  
