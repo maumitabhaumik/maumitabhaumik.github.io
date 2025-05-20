@@ -11,7 +11,8 @@ title: Papers
   
 - Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance. In _Proceedings of the 49th Boston University conference on language development_. Somerville, MA: Cascadilla Press. [to appear] 
 
- &nbsp;    
+ &nbsp;  
+ 
 <h3> <span style="color: #3498DB ;">Presentations </span> </h3> 
 
 - Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance. _49th Annual Boston University Conference on Language Development (BUCLD-49)_, Boston University, Boston, Massachusetts. November 7-10. [[Poster]()] 
@@ -27,6 +28,27 @@ title: Papers
 - Phonetic accommodation in English loan-words in Bengali (with Auromita Mitra, Ananya Mondal, and Indranil Dutta). _National Conference on Phonetics: theoretical underpinnings and research explorations_. Department of Phonetics and Spoken English, The English and Foreign Languages University, Hyderabad, India, November 19-20.  [Paper] 
 
  &nbsp;    
+
+<h3> <span style="color: #3498DB ;">Presentations </span> </h3> 
+
+- Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance.
+   Poster at the _49th Annual Boston University Conference on Language Development (BUCLD-49)_, Boston University. November. 2024. [[Poster]()] 
+
+- Disjunction comprehension in preschool children: Does access to alternative help in implicature derivation?
+   Talk at the _40th Northwest Linguistics Conference (NWLC 2024)_, University of Washington. 2024.   [Paper] [online]
+   Talk at the _4th South Asian Forum on the Acquisition and Processing of Language (SAFAL)_, Indian Institute of Technology, Kanpur. 2023.   [Paper] 
+
+- Pragmatic inference is as immediate as literal interpretation: Importance of context and communicative intent.
+   Talk at the _CogLingDays2022, Belgium-Netherlands Cognitive Linguistics Association (BeNeCLA)_, Tilburg University. 2022.   [Paper]
+
+- Reduction of context extension helps children compute implicature.
+   Talk at the _12th Annual Budapest CEU Conference on Cognitive Development (BCCCD)_. Central European University, Budapest. 2022.   [Paper] [online]
+
+- Phonetic accommodation in English loan-words in Bengali (with Auromita Mitra, Ananya Mondal, and Indranil Dutta).
+   Talk at the _National Conference on Phonetics: theoretical underpinnings and research explorations_. Department of Phonetics and Spoken English, The English and Foreign Languages University, Hyderabad. 2019.  [Paper] 
+
+ &nbsp;    
+ 
 <h3> <span style="color: #3498DB ;">Invited talks </span> </h3> 
 
 - Role of alternative and relevance in children’s comprehension of scalar implicature in or-sentences. _Recursion Group. Language Acquisition Research Center_. University of Massachusetts Amherst, USA, January 23, 2025. [online] 
