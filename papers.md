@@ -16,7 +16,7 @@ title: Papers
 <h3> <span style="color: #3498DB ;">Presentations </span> </h3> 
 
 - Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance.
-   <ul> <li> Poster at the <em>49th Annual Boston University Conference on Language Development (BUCLD-49)</em>, Boston University. 2024. [Poster]() </li> </ul>
+   <ul> <li> Poster at the <em>49th Annual Boston University Conference on Language Development (BUCLD-49)</em>, Boston University. 2024. [<a>Poster</a>] </li> </ul>
 
 - Disjunction comprehension in preschool children: Does access to alternative help in implicature derivation?
    <ul> <li> Talk at the <em>40th Northwest Linguistics Conference (NWLC 2024)</em>, University of Washington. 2024. [Paper] [online] </li></ul>
