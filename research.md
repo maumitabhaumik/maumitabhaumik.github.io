@@ -17,10 +17,10 @@ For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehensio
 - Noveck, I. A. (2001). When children are more logical than adults: Experimental investigations of scalar implicature. Cognition, 78(2), 165–188. https://doi.org/10.1016/s0010-0277(00)00114-1
 
 <h4> <span style="color: #3498DB ;">Results thus far: </span> </h4> 
-- Presented at the _49th Boston University Conference on Language Development (BUCLD-49)_, Boston University, Massachusetts, November 7-10, 2024
-- Presented at the _40th Northwest Linguistics Conference (NWLC 2024)_, University of Washington, Seattle, Washington, May 4-5, 2024
-- Presented at the _4th South Asian Forum on the Acquisition and Processing of Language (SAFAL)_, Indian Institute of Technology, Kanpur, India, December 8, 2023.
-- Presented at the _12th Annual Budapest CEU Conference on Cognitive Development (BCCCD)_, Central European University, Budapest, Hungary,  January 10-14, 2022.
+- Presented at the _49th Boston University Conference on Language Development (BUCLD-49)_, Boston University. 2024
+- Presented at the _40th Northwest Linguistics Conference (NWLC 2024)_, University of Washington. 2024
+- Presented at the _4th South Asian Forum on the Acquisition and Processing of Language (SAFAL)_, Indian Institute of Technology, Kanpur. 2023.
+- Presented at the _12th Annual Budapest CEU Conference on Cognitive Development (BCCCD)_, Central European University, Budapest. 2022.
 
 
  &nbsp;    
@@ -36,7 +36,7 @@ In this project, I am exploring adults' processing of scalar implicature. My int
 - Sperber, D., & Wilson, D. (1995). Relevance: Communication and cognition, 2nd ed (pp. viii, 326). Blackwell Publishing. 
 
 <h4> <span style="color: #3498DB ;">Results thus far: </span> </h4> 
-- Presented at the _CogLingDays 2022, Belgium-Netherlands Cognitive Linguistics Association (BeNeCLA)_, Tilburg University, Tilburg, the Netherlands, December 8-9, 2022.
+- Presented at the _CogLingDays 2022, Belgium-Netherlands Cognitive Linguistics Association (BeNeCLA)_, Tilburg University. 2022.
 
 
  &nbsp;    
