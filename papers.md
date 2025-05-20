@@ -11,7 +11,7 @@ title: Papers
   
 - Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance. In _Proceedings of the 49th Boston University conference on language development_. Somerville, MA: Cascadilla Press. [to appear]
 
-- <ul>
+<ul>
   <li><em>Bengali-speaking children’s comprehension of disjunction.</em> <em>First Language.</em> [accepted]</li>
   
   <li><em>Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance.</em> In <em>Proceedings of the 49th Boston University conference on language development.</em> Somerville, MA: Cascadilla Press. [to appear]</li>
