@@ -9,13 +9,7 @@ title: Papers
 
 - Bengali-speaking children’s comprehension of disjunction. _First Language_.  [accepted]
   
-- Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance. In _Proceedings of the 49th Boston University conference on language development_. Somerville, MA: Cascadilla Press. [to appear]
-
-<ul>
-  <li><em>Bengali-speaking children’s comprehension of disjunction.</em> <em>First Language.</em> [accepted]</li>
-  
-  <li><em>Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance.</em> In <em>Proceedings of the 49th Boston University conference on language development.</em> Somerville, MA: Cascadilla Press. [to appear]</li>
-</ul>
+- Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance. In _Proceedings of the 49th Boston University conference on language development_. Somerville, MA: Cascadilla Press. [to appear] 
 
  &nbsp;    
 <h3> <span style="color: #3498DB ;">Presentations </span> </h3> 
@@ -23,6 +17,12 @@ title: Papers
 - Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance. _49th Annual Boston University Conference on Language Development (BUCLD-49)_, Boston University, Boston, Massachusetts. November 7-10. [[Poster]()] 
 
 - Disjunction comprehension in preschool children: Does access to alternative help in implicature derivation? _40th Northwest Linguistics Conference (NWLC 2024)_, University of Washington, Seattle, Washington, May 4-5, 2024.   [Paper] [online]
+ 
+- <ul> Disjunction comprehension in preschool children: Does access to alternative help in implicature derivation? 
+  <li>_40th Northwest Linguistics Conference (NWLC 2024)_, University of Washington, Seattle, 2024.</li>
+  
+  <li>_4th South Asian Forum on the Acquisition and Processing of Language (SAFAL)_, Indian Institute of Technology, Kanpur, India, 2023.   [Paper]</li>
+</ul>
 
 - Disjunction comprehension in preschool children: Does access to alternative help in implicature derivation? _4th South Asian Forum on the Acquisition and Processing of Language (SAFAL)_, Indian Institute of Technology, Kanpur, India, December 8, 2023.   [Paper]
 
