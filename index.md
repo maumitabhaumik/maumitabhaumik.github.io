@@ -12,11 +12,9 @@ title: About me
 Hello! I am a linguistics researcher based in India. <!--I have recently submitted my Ph.D. dissertation in the Department of Linguistics and Contemporary English at the English and Foreign Languages University, Hyderabad, and it is currently under review by external examiners. Earlier, I obtained an M.A. in Linguistics from Jawaharlal Nehru University, New Delhi, in 2019.-->
 My research focuses on language processing in children and adults, with special attention to their comprehension of meaning in verbal communication.  I am particularly fascinated by the intricate interplay between semantics and pragmatics in meaning interpretation. I study the comprehension of ubiquitous logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and I use experimental methods to explore their processes. 
 
-Logical expressions are ubiquitous in our everyday language. Yet much remains unknown about how they are understood in both children and adults and what factors influence their comprehension. Many ambiguities are yet to be resolved. I study logical expressions because they offer us a window into the complex relationship between language and human cognition. I am also interested in exploring how language and general cognitive faculties aid each other in their development in children. 
+Logical expressions are ubiquitous in our everyday language, yet much remains unknown about how they are understood in both children and adults and what factors influence their comprehension. Many ambiguities are still unresolved. I study logical expressions because they provide a window into the complex relationship between language and human cognition. I am interested in exploring how language and general cognitive faculties aid each other during development in children. 
 
-<!-- Particularly, the relation between pragmatic meaning comprehension and the human ability of the Theory of mind delights me very much. -->
-
-I have experience using behavioral techniques for my studies, and I am keen on learning to use more advanced techniques.  
+<!--Particularly, the relation between pragmatic meaning comprehension and the human ability of the Theory of mind delights me very much.-->
 
 When I am not working, I like to paint, arrange dry flowers, or cook some Bibimbap and enjoy an anime!  
 
