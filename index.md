@@ -2,13 +2,21 @@
 layout: page
 title: About me
 ---
+<!--
+<html>
+  <body>
+    <img width="470" height="368" src="/boston.jpg" alt="My Image">
+    <!-- <figcaption align = "center"><span style="font-size:0.7em;">(Zandvoort beach, December, 2022)</span></figcaption> -->
+  </body>
+</html>
+--> 
 
 <html>
   <body>
     <img width="470" height="368" src="/boston.jpg" alt="My Image">
     <!-- <figcaption align = "center"><span style="font-size:0.7em;">(Zandvoort beach, December, 2022)</span></figcaption> -->
   </body>
-</html> 
+</html>
 
 Hello! I am a linguistics researcher based in India. <!--I have recently submitted my Ph.D. dissertation in the Department of Linguistics and Contemporary English at the English and Foreign Languages University, Hyderabad, and it is currently under review by external examiners. Earlier, I obtained an M.A. in Linguistics from Jawaharlal Nehru University, New Delhi, in 2019.-->
 My research focuses on language processing in children and adults, with special attention to their comprehension of meaning in verbal communication. <!--I am particularly fascinated by the intricate interplay between semantics and pragmatics in meaning interpretation.--> 
