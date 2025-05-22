@@ -5,11 +5,11 @@ title: CV
 
 
 
-<html>
+<!-- <html>
   <body>
   <img align="right" width="250" height="286" src="/CV_photo.jpg">
   </body>
-</html>
+</html> -->
 
 
 [click here](https://maumitabhaumik.github.io/Bhaumik_CV__.pdf)
