@@ -1,9 +1,8 @@
-
-
 ---
 layout: page
 title: About me
 ---
+
 <html>
   <body>
     <img width="505" height="396" src="/boston.jpg" alt="My Image">
