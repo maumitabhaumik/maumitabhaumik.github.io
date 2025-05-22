@@ -12,7 +12,7 @@ title: About me
 
 <html>
   <body>
-    <img width="410" height="280" src="/bucld.jpg" alt="My Image">
+    <img width="410" height="285" src="/bucld.jpg" alt="My Image">
     <!-- <figcaption align = "center"><span style="font-size:0.7em;">(Zandvoort beach, December, 2022)</span></figcaption> -->
   </body>
 </html>
