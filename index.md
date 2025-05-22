@@ -12,9 +12,7 @@ title: About me
 Hello! I am a linguistics researcher based in India. <!--I have recently submitted my Ph.D. dissertation in the Department of Linguistics and Contemporary English at the English and Foreign Languages University, Hyderabad, and it is currently under review by external examiners. Earlier, I obtained an M.A. in Linguistics from Jawaharlal Nehru University, New Delhi, in 2019.-->
 My research focuses on language processing in children and adults, with special attention to their comprehension of meaning in verbal communication.  I am particularly fascinated by the intricate interplay between semantics and pragmatics in meaning interpretation. I study the comprehension of ubiquitous logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and I use experimental methods to explore their processes. 
 
-Logical expressions are ubiquitous in our everyday language, yet much remains unknown about how they are understood in both children and adults and what factors influence their comprehension. Many ambiguities are still unresolved. I study logical expressions because they provide a window into the complex relationship between language and human cognition. I am interested in exploring how language and general cognitive faculties aid each other during development in children. 
-
-<!--Particularly, the relation between pragmatic meaning comprehension and the human ability of the Theory of mind delights me very much.-->
+Logical expressions are ubiquitous in our everyday language, yet much remains unknown about how they are understood in both children and adults and what factors influence their comprehension. By studying them, I aim to explore the broader relationship between language and general cognitive faculties, especially how they aid each other during childhood development. 
 
 When I am not working, I like to paint, arrange dry flowers, or cook some Bibimbap and enjoy an anime!  
 
