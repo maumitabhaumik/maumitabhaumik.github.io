@@ -4,7 +4,7 @@ title: About me
 ---
 <html>
   <body>
-    <img width="465" height="349" src="/boston1.jpg" alt="My Image">
+    <img width="460" height="350" src="/boston1.jpg" alt="My Image">
     <!-- <figcaption align = "center"><span style="font-size:0.7em;">(Zandvoort beach, December, 2022)</span></figcaption> -->
   </body>
 </html> 
