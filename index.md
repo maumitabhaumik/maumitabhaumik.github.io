@@ -22,7 +22,7 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 <h3> <span style="color: #3498DB ;">Updates!</span> </h3> 
 
 - Manuscript accepted for publication in [_First Language_](https://journals.sagepub.com/home/fla). 
-- Paper accepted for a Talk at [_Sinn und Bedeutung 30_](https://vicom.info/sub30/). 
+- Paper accepted for a Talk in the main session at [_Sinn und Bedeutung 30_](https://vicom.info/sub30/). 
 - Paper accepted for a Talk at [_XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface_](https://sites.google.com/view/nicolegotzner/emmy-noether-project/workshop) at ZAS.
 - Paper accepted for a Lightning Talk at [_Amsterdam Colloquium 2024_](https://events.illc.uva.nl/AC/AC2024/Conference/). 
 
