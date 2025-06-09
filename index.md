@@ -23,9 +23,9 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 - Abstract accepted for a Poster at [_11th Biennial Experimental Pragmatics Conference_](https://www.xprag2025.com/home) at the University of Cambridge. 
 - Manuscript accepted for publication in [_First Language_](https://journals.sagepub.com/home/fla). 
-- Paper accepted for a Talk in the main session at [_Sinn und Bedeutung 30_](https://vicom.info/sub30/). 
-- Paper accepted for a Talk at [_XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface_](https://sites.google.com/view/nicolegotzner/emmy-noether-project/workshop) at ZAS.
-- Paper accepted for a Lightning Talk at [_Amsterdam Colloquium 2024_](https://events.illc.uva.nl/AC/AC2024/Conference/). 
+- Abstract accepted for a Talk in the main session at [_Sinn und Bedeutung 30_](https://vicom.info/sub30/). 
+- Abstract accepted for a Talk at [_XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface_](https://sites.google.com/view/nicolegotzner/emmy-noether-project/workshop) at ZAS.
+- Abstract accepted for a Lightning Talk at [_Amsterdam Colloquium 2024_](https://events.illc.uva.nl/AC/AC2024/Conference/). 
 
 &nbsp;  
  
