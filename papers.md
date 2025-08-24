@@ -16,7 +16,7 @@ title: Papers
 <h3> <span style="color: #3498DB ;">Presentations </span> </h3> 
 
 - Difficulty in accessing the scalar alternative: What does children’s spontaneous feedback reveal?
-   <ul> <li> Talk at the <em>XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface</em>, Leibniz-ZAS. 2025. [<a>Paper</a>] </li> </ul>
+   <ul> <li> Talk at the <em>XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface</em>, Leibniz-ZAS, Berlin. 2025. [<a>Paper</a>] </li> </ul>
 
 - Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance.
    <ul> <li> Poster at the <em>49th Annual Boston University Conference on Language Development (BUCLD-49)</em>, Boston University. 2024. [<a>Poster</a>] </li> </ul>
