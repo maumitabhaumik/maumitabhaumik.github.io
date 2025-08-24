@@ -21,7 +21,7 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 <h3> <span style="color: #3498DB ;">Updates!</span> </h3> 
 
-- Abstract accepted for a Poster at the [_50th Boston University Conference on Language Development_]([https://www.xprag2025.com/home](https://www.bu.edu/bucld/)).
+- Abstract accepted for a Poster at the [_50th Boston University Conference on Language Development_](https://www.bu.edu/bucld/).
 - Abstract accepted for a Poster at the [_11th Biennial Experimental Pragmatics Conference_](https://www.xprag2025.com/home) at the University of Cambridge. 
 - Manuscript accepted for publication in [_First Language_](https://journals.sagepub.com/home/fla). 
 - Abstract accepted for a Talk in the main session at [_Sinn und Bedeutung 30_](https://vicom.info/sub30/).
