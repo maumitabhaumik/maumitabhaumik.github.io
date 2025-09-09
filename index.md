@@ -21,6 +21,7 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 <h3> <span style="color: #3498DB ;">Updates!</span> </h3> 
 
+- I have been awarded the _Paula Menyuk Travel Award_ for BUCLD-50. 
 - Abstract accepted for a Poster at the [_50th Boston University Conference on Language Development_](https://www.bu.edu/bucld/).
 - I have successfully defended my Ph.D. dissertation on 28 July 2025. 
 - Abstract accepted for a Poster at the [_11th Biennial Experimental Pragmatics Conference_](https://www.xprag2025.com/home) at the University of Cambridge. 
