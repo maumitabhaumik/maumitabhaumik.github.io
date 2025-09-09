@@ -26,7 +26,6 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 - I have successfully defended my Ph.D. dissertation on 28 July 2025.
 - Manuscript published in [_First Language_](https://doi.org/10.1177/01427237251347860).
 - Abstract accepted for a Poster at the [_11th Biennial Experimental Pragmatics Conference_](https://www.xprag2025.com/home) at the University of Cambridge. 
-- Manuscript accepted for publication in [_First Language_](https://journals.sagepub.com/home/fla). 
 - Abstract accepted for a Talk in the main session at [_Sinn und Bedeutung 30_](https://vicom.info/sub30/).
 
 &nbsp;  
