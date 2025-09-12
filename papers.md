@@ -9,7 +9,7 @@ title: Papers
   
 - Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance. In _Proceedings of the 49th Boston University conference on language development_. Somerville, MA: Cascadilla Press. <a href="http://www.cascadilla.com/bucld49toc.html" target="_blank" rel="noopener noreferrer">[to appear]</a>  
 
-- Bengali-speaking children’s comprehension of disjunction. _First Language_. Advance online publication. [https://doi.org/10.1177/01427237251347860](https://doi.org/10.1177/01427237251347860) 
+- Bengali-speaking children’s comprehension of disjunction. _First Language_. Advance online publication. <a href="https://doi.org/10.1177/01427237251347860" target="_blank" rel="noopener noreferrer">https://doi.org/10.1177/01427237251347860</a> 
 
  &nbsp;    
 
