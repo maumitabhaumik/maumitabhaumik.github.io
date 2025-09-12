@@ -9,7 +9,8 @@ title: About me
   </body>
 </html> 
 
-Hello! I am a linguistics researcher based in India. I have recently graduated with my Ph.D. degree in Linguistics from the English and Foreign Languages University, Hyderabad. Earlier, I obtained an M.A. in Linguistics from Jawaharlal Nehru University, New Delhi, in 2019.
+Hello! I am a linguistics researcher based in India. I have recently graduated with my Ph.D. in Linguistics from the English and Foreign Languages University, Hyderabad, India. Earlier, I obtained an M.A. in Linguistics from the Jawaharlal Nehru University, New Delhi, in 2019.
+
 My research focuses on language processing in children and adults, with special attention to their comprehension of meaning in verbal communication. <!--I am particularly fascinated by the intricate interplay between semantics and pragmatics in meaning interpretation.--> 
 I study the comprehension of logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and use experimental methods to study their processes. 
 
