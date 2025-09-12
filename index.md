@@ -25,9 +25,9 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 - I have been awarded the _Paula Menyuk Travel Award_ to attend BUCLD-50. 
 - Abstract (with Masoud Jasbi) accepted for a Poster at the <a href="https://www.bu.edu/bucld/" target="_blank" rel="noopener noreferrer">_50th Boston University Conference on Language Development_</a>
 - I have successfully defended my Ph.D. dissertation on 28 July 2025.
-- Manuscript published in [_First Language_](https://doi.org/10.1177/01427237251347860).
-- Abstract accepted for a Poster at the [_11th Biennial Experimental Pragmatics Conference_](https://www.xprag2025.com/home) at the University of Cambridge. 
-- Abstract accepted for a Talk in the main session at [_Sinn und Bedeutung 30_](https://vicom.info/sub30/).
+- Manuscript published in <a href="https://doi.org/10.1177/01427237251347860" target="_blank" rel="noopener noreferrer">_First Language_</a>
+- Abstract accepted for a Poster at the <a href="https://www.xprag2025.com/home" target="_blank" rel="noopener noreferrer">_11th Biennial Experimental Pragmatics Conference_</a> at the University of Cambridge. 
+- Abstract accepted for a Talk in the main session at <a href="https://vicom.info/sub30/" target="_blank" rel="noopener noreferrer">_Sinn und Bedeutung 30_</a>.
 
 &nbsp;  
  
