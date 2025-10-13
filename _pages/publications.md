@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-&nbsp;  
+
  
 <h1> <span style="color: #3498DB ;">Journal articles </span> </h1> 
 
