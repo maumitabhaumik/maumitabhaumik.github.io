@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<!-- Hi! I am a linguistics researcher based in India.--> Hello! I am an incoming postdoctoral researcher at the Leibniz-Centre General Linguistics in Berlin as a Humboldt Research Fellow. I recently earned my Ph.D. in Linguistics from the English and Foreign Languages University in Hyderabad, India, and previously completed my M.A. in Linguistics at the Jawaharlal Nehru University in New Delhi. 
+<!-- Hello! I am a linguistics researcher based in India.--> Hi! I am an incoming postdoctoral researcher at the Leibniz-Centre General Linguistics in Berlin as a Humboldt Research Fellow. I recently earned my Ph.D. in Linguistics from the English and Foreign Languages University in Hyderabad, India, and previously completed my M.A. in Linguistics at the Jawaharlal Nehru University in New Delhi. 
 
 My research focuses on language processing in children and adults, with special attention to their comprehension of meaning in verbal communication. <!--I am particularly fascinated by the intricate interplay between semantics and pragmatics in meaning interpretation.--> 
 I study the comprehension of logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and use experimental methods to study their processes. 
