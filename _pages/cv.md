@@ -16,9 +16,9 @@ redirect_from:
 </html> -->
 
 
-[click here](https://maumitabhaumik.github.io/Bhaumik_CV__.pdf)
+[View my CV](https://maumitabhaumik.github.io/Bhaumik_CV__.pdf)
 
-<h4>Click the above link to view my CV</h4>  
+<!-- <h4>Click the above link to view my CV</h4>  --> 
 
 
 
