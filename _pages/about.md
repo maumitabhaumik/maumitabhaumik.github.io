@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+<!-- title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites" --> 
+title: "About me" 
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,7 +19,10 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 &nbsp;  
 
-<h3> <span style="color: #3498DB ;">Updates!</span> </h3> 
+<!-- <h3> <span style="color: #3498DB ;">Updates!</span> </h3> --> 
+
+Updates!
+====== 
 
 - I have been awarded the _Paula Menyuk Award_ to attend BUCLD-50. 
 - Abstract (with Masoud Jasbi) accepted for a Poster at the <a href="https://www.bu.edu/bucld/" target="_blank" rel="noopener noreferrer">_50th Boston University Conference on Language Development_</a>
