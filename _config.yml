@@ -27,12 +27,12 @@ author:
   name             : "Maumita Bhaumik"
   pronouns         : "she/her"  
   bio              : "Researcher in semantics, pragmatics, language acquisition, and cognitive science"
-  location         : "India"
-  employer         : "The English and Foreign Languages University"
-  uri              : # URL
+  location         : "Berlin"
+  employer         : "Leibniz-ZAS"
+  uri              : "https://maumitabhaumik.github.io/bhaumik.github.io/"
   email            : "moumitaphdlandp19@efluniversity.ac.in" 
-  github           : "maumitabhaumik"
-  googlescholar    : # URL
+  # github           : "maumitabhaumik"
+  googlescholar    : "https://scholar.google.com/citations?user=PupexxsAAAAJ&hl=en"
   orcid            : # URL
   academia         : # URL
   researchgate     : # URL
