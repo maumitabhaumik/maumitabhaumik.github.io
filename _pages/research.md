@@ -1,8 +1,7 @@
 ---
-permalink: / 
-title: "Research Projects" 
-author_profile: true 
-author_profile: false
+title: "Research"
+permalink: /research/
+author_profile: false 
 ---
 
 
