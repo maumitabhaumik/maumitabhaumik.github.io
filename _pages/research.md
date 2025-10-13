@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
+&nbsp;    
+
 <h1> <span style="color: #3498DB ;">Children's comprehension of disjunction </span> </h1> 
 
 For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehension of the disjunction word _or_. My work is informed by the current literature on children's pragmatic acquisition, especially their acquisition of scalar implicature. <!--, and is influenced by the ideas of the Relevance Theory (Sperber & Wilson, 1986/1995)--> My research questions are whether preschool children can derive scalar implicature from disjunctive sentences and what is the reason behind their apparent pragmatic difficulty. <!--To answer these questions, I am using experimental methods that are geared toward bringing maximum relevance to the children in the studies. My work also incorporates knowledge from the research done on the Theory of Mind.-->  Below, I have added a list of references to give you a preliminary idea about the nature and scope of my work: 
