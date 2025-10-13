@@ -5,6 +5,8 @@ permalink: /presentations/
 author_profile: true
 --- 
 
+&nbsp;
+
 - Difficulty in accessing the scalar alternative: What does children’s spontaneous feedback reveal?
    <ul> <li> Talk at the <em>XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface</em>, Leibniz-ZAS, Berlin. 2025. [<a>Paper</a>] </li> </ul>
 
