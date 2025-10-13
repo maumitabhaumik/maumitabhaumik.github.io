@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "Presentations"
+#title: "Presentations"
 permalink: /presentations/
 author_profile: true
 --- 
 
 &nbsp;
+
+Talks and Posters
+=====
 
 - Difficulty in accessing the scalar alternative: What does children’s spontaneous feedback reveal?
    <ul> <li> Talk at the <em>XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface</em>, Leibniz-ZAS, Berlin. 2025. [<a>Paper</a>] </li> </ul>
@@ -28,7 +31,10 @@ author_profile: true
 
  &nbsp;    
  
-<h3> <span style="color: #3498DB ;">Invited talks </span> </h3> 
+<!-- <h3> <span style="color: #3498DB ;">Invited talks </span> </h3> --> 
+
+Invited talks
+=====
 
 - Role of alternative and relevance in children’s comprehension of scalar implicature in or-sentences. _Recursion Group. Language Acquisition Research Center_. University of Massachusetts Amherst, USA. January 23, 2025. [online] 
 
