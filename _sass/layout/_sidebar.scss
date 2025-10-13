@@ -46,7 +46,7 @@
   }
 
   h3, h4 {
-    font-size: $type-size-5;
+    font-size: $type-size-4;
   }
 
   p, li {
@@ -161,8 +161,8 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: "Garamond", serif;
-   font-size: $type-size-6
+  font-family: "Garamond", serif; 
+   font-size: $type-size-6;
   z-index: 10;
   position: relative;
   cursor: pointer;
