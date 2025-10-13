@@ -7,7 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-<!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! -->
+Hello! I am a linguistics researcher based in India. I have recently graduated with my Ph.D. in Linguistics from the English and Foreign Languages University, Hyderabad. Earlier, I obtained an M.A. in Linguistics from the Jawaharlal Nehru University, New Delhi, in 2019.
+
+My research focuses on language processing in children and adults, with special attention to their comprehension of meaning in verbal communication. <!--I am particularly fascinated by the intricate interplay between semantics and pragmatics in meaning interpretation.--> 
+I study the comprehension of logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and use experimental methods to study their processes. 
+
+Logical expressions are ubiquitous in our everyday language, yet much remains unknown about how they are understood in both children and adults and what factors influence their comprehension. By studying them, I aim to explore the broader relationship between language and general cognitive faculties, especially how they aid each other during childhood development. 
+
+When I am not working, I like to paint, arrange dry flowers, or cook some Bibimbap and enjoy an anime!  
+
+&nbsp;  
+
+<h3> <span style="color: #3498DB ;">Updates!</span> </h3> 
+
+- I have been awarded the _Paula Menyuk Award_ to attend BUCLD-50. 
+- Abstract (with Masoud Jasbi) accepted for a Poster at the <a href="https://www.bu.edu/bucld/" target="_blank" rel="noopener noreferrer">_50th Boston University Conference on Language Development_</a>
+- I have successfully defended my Ph.D. dissertation on 28 July 2025.
+- Manuscript published in <a href="https://doi.org/10.1177/01427237251347860" target="_blank" rel="noopener noreferrer">_First Language_</a>
+- Abstract accepted for a Poster at the <a href="https://www.xprag2025.com/home" target="_blank" rel="noopener noreferrer">_11th Biennial Experimental Pragmatics Conference_</a> at the University of Cambridge. 
+- Abstract accepted for a Talk in the main session at <a href="https://vicom.info/sub30/" target="_blank" rel="noopener noreferrer">_Sinn und Bedeutung 30_</a>.
+
+
+
+
+<!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! 
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +76,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
