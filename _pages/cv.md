@@ -17,7 +17,7 @@ redirect_from:
 
 &nbsp;    
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Click here to view my CV](https://maumitabhaumik.github.io/Bhaumik_CV__.pdf)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Click here to view my CV](https://maumitabhaumik.github.io/Bhaumik.pdf)
 
 <!-- <h4>Click the above link to view my CV</h4>  --> 
 
