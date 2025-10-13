@@ -5,7 +5,6 @@ permalink: /presentations/
 author_profile: true
 --- 
 
-&nbsp;
 
 Talks and Posters
 =====
