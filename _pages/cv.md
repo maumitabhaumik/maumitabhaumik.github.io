@@ -15,6 +15,8 @@ redirect_from:
   </body>
 </html> -->
 
+&nbsp;  
+&nbsp;  
 
 [Click here to view my CV](https://maumitabhaumik.github.io/Bhaumik_CV__.pdf)
 
