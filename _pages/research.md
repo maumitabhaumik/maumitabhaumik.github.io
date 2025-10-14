@@ -34,9 +34,10 @@ In this project, I am exploring adults' processing of scalar implicature. My int
 <!--more-->
 It is because both lower-bounded (logical) meaning and upper-bounded (implicature) meaning are not removed from context, and contextual information is not necessarily actively sought by the listener; rather it is given as the listener's cognitive environment. Please have a look at the following list to get an idea of the scope of the research. 
 
+<!-- 
 <h3> <span style="color: #3498DB ;">Results thus far: </span> </h3> 
 - Presented at the _CogLingDays 2022, Belgium-Netherlands Cognitive Linguistics Association (BeNeCLA)_, Tilburg University. 2022.
-
+--> 
 
  &nbsp;    
 
