@@ -18,8 +18,6 @@ Logical expressions are ubiquitous in our everyday language, yet much remains un
 
 When I am not working, I like to paint, arrange dry flowers, or cook some Bibimbap and enjoy an anime!  
 
-&nbsp;  
-
 
 <h1> <span style="color: #3498DB ;">Updates!</span> </h1> 
 
