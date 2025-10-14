@@ -131,7 +131,7 @@
   font-family: "Garamond", serif;
   font-size: $type-size-4;
   font-weight: 400;
-  color: $global-text-color !important;
+  color: var(--global-text-color);
 }
 
 .sidebar .author__desktop {
