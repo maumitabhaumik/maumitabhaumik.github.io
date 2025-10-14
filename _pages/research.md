@@ -24,7 +24,7 @@ Below, I have added a list of references to give you a preliminary idea about th
 -->
 
 
- &nbsp;    
+
 
  
 <h1> <span style="color: #3498DB ;">Processing scalar implicature </span> </h1> 
@@ -37,7 +37,7 @@ In this project, I investigate how adults process scalar implicatures, focusing 
 - Presented at the _CogLingDays 2022, Belgium-Netherlands Cognitive Linguistics Association (BeNeCLA)_, Tilburg University. 2022.
 --> 
 
- &nbsp;    
+ 
 
 
 <h1> <span style="color: #3498DB ;">Disjunction expressions in Indian languages: Usage of conditional morphemes </span> </h1>
