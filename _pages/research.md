@@ -8,8 +8,14 @@ author_profile: true
 
 <h1> <span style="color: #3498DB ;">Children's comprehension of disjunction </span> </h1> 
 
-For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehension of the disjunction word _or_. My work is informed by the current literature on children's pragmatic acquisition, especially their acquisition of scalar implicature. <!--, and is influenced by the ideas of the Relevance Theory (Sperber & Wilson, 1986/1995)--> My research questions are whether preschool children can derive scalar implicature from disjunctive sentences and what is the reason behind their apparent pragmatic difficulty. <!--To answer these questions, I am using experimental methods that are geared toward bringing maximum relevance to the children in the studies. My work also incorporates knowledge from the research done on the Theory of Mind.-->  
-<!--more--> 
+For my _Ph.D._ _dissertation_, I investigated the comprehension of the disjunction word or in Bengali-speaking children. This research is situated within the broader field of pragmatic development, with a particular focus on how children acquire scalar implicatures, i.e., context-dependent inferences that go beyond the literal meaning of sentences.   
+
+My primary research questions were twofold: first, whether preschool-aged children can reliably derive scalar implicatures from disjunctive sentences (e.g., understanding that “A or B” can imply “not both A and B” in certain contexts); and second, what cognitive or linguistic factors underlie their apparent difficulty with these pragmatic inferences.
+
+To address these questions, I employed experimental methods designed to probe children’s interpretations of disjunctive sentences in controlled contexts, allowing for a careful distinction between literal understanding and pragmatic enrichment. My study offers empirical observations and perspectives on the intersection of semantics and pragmatics in early language development, highlighting cross-linguistic patterns of pragmatic acquisition and the cognitive mechanisms that support them. 
+
+
+<!-- 
 Below, I have added a list of references to give you a preliminary idea about the nature and scope of my work: 
 
 <h3> <span style="color: #3498DB ;">Results thus far: </span> </h3> 
@@ -17,6 +23,7 @@ Below, I have added a list of references to give you a preliminary idea about th
 - Presented at the _40th Northwest Linguistics Conference (NWLC 2024)_, University of Washington. 2024
 - Presented at the _4th South Asian Forum on the Acquisition and Processing of Language (SAFAL)_, Indian Institute of Technology, Kanpur. 2023.
 - Presented at the _12th Annual Budapest CEU Conference on Cognitive Development (BCCCD)_, Central European University, Budapest. 2022.
+-->
 
 
  &nbsp;    
