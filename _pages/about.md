@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1> <span style="color: #3498DB ;">About me</span> </h1> --> 
+<h1> <span style="color: #3498DB ;">About me</span> </h1>  
 
 <!-- Hello! I am a linguistics researcher based in India.--> Hi! I am Maumita. I am an incoming postdoctoral researcher at the Leibniz-Centre General Linguistics in Berlin as a Humboldt Research Fellow. I recently earned my Ph.D. in Linguistics from the English and Foreign Languages University in Hyderabad, India, and previously completed my M.A. in Linguistics at the Jawaharlal Nehru University in New Delhi. 
 
