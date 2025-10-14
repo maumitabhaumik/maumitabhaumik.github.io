@@ -116,6 +116,9 @@ blockquote {
 /* links */
 
 a {
+   color: #3498DB;           // default link color
+   text-decoration: none;     // optional, remove underline
+
   &:focus {
     @extend %tab-focus;
   }
