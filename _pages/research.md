@@ -8,7 +8,7 @@ author_profile: true
 
 <h1> <span style="color: #3498DB ;">Children's comprehension of disjunction </span> </h1> 
 
-For my _Ph.D._ _dissertation_, I investigated the comprehension of the disjunction word or in Bengali-speaking children. This research is situated within the broader field of pragmatic development, with a particular focus on how children acquire scalar implicatures, i.e., context-dependent inferences that go beyond the literal meaning of sentences.   
+For my _Ph.D._ _dissertation_, I investigated the comprehension of the disjunction word _or_ in Bengali-speaking children. This research is situated within the broader field of pragmatic development, with a particular focus on how children acquire scalar implicatures, a type of context-dependent inferences that go beyond the literal meaning of sentences.   
 
 My primary research questions were twofold: first, whether preschool-aged children can reliably derive scalar implicatures from disjunctive sentences (e.g., understanding that “A or B” can imply “not both A and B” in certain contexts); and second, what cognitive or linguistic factors underlie their apparent difficulty with these pragmatic inferences.
 
