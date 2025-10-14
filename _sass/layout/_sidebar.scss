@@ -131,11 +131,11 @@
   font-family: "Garamond", serif;
   font-size: $type-size-4;
   font-weight: 400;
-  color: #000; // black in light mode
+  color: #000000 !important; // black in light mode
 }
 /* Dark mode override */
 html[data-theme="dark"] .sidebar .author__name {
-  color: #fff; // white in dark mode
+  color: #ffffff !important; // white in dark mode
 }
 
 .sidebar .author__desktop {
