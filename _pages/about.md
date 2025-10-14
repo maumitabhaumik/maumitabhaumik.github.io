@@ -22,8 +22,7 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 <h3> <span style="color: #3498DB ;">Updates!</span> </h3> --> 
 
-Updates!
-===== 
+<h3> <span style="color: #3498DB ;">Updates!</span> </h3> 
 
 - I have been awarded the _Paula Menyuk Award_ to attend BUCLD-50. 
 - Abstract (with Masoud Jasbi) accepted for a Poster at the <a href="https://www.bu.edu/bucld/" target="_blank" rel="noopener noreferrer">_50th Boston University Conference on Language Development_</a>
