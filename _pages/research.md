@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Research Projects"
+#title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
 
-
-&nbsp;    
 
 <h1> <span style="color: #3498DB ;">Children's comprehension of disjunction </span> </h1> 
 
