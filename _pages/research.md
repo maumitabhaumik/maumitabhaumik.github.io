@@ -41,13 +41,10 @@ In this project, I investigate how adults process scalar implicatures, focusing 
 
 
 <h1> <span style="color: #3498DB ;">Disjunction expressions in Indian languages: Usage of conditional morphemes </span> </h1>
-This project aims to capture the nature of disjunction words used in the languages of the Indian sub-continent. Indian languages like Hindi or Bengali use more than one expression to refer to disjunction in sentences. 
-<!--more-->
-For example, Hindi uses '_yā_' and '_nahito_'; Bengali uses '_bā_ ' and '_noyto_' to refer to disjunction. Interestingly, words like '_nahito_' and '_noyto_' are bi-morphemic which can be split into an 'if not' construction. This phenomenon is not noticed in languages such as English, Japanese, Mandarin, or French for instance. Such bi-morphemic disjunction expressions are seen in other Indian languages too. Such as Meitei, a north-east Indian language, uses the word '_natraga_' or '_natradi_' to refer to disjunction which too have the 'if-not' meaning. For example, '_natra_' means 'not' and '_ga_' is a conditional bound morpheme. 
-
-I aim to investigate why there is more than one expression for simple disjunction in these languages and how they are used - especially what significance the 'if-not' construction holds in these languages. My greater objective is to see how the information can feed/counter the existing theories about the human language faculty. 
+This project aims to capture the nature of disjunction words used in the languages of the Indian sub-continent. Indian languages like Hindi or Bengali use more than one expression to refer to disjunction in sentences. For example, Hindi uses '_yā_' and '_nahito_'; Bengali uses '_bā_ ' and '_noyto_' to refer to disjunction. Interestingly, words like '_nahito_' and '_noyto_' are bi-morphemic which can be split into an 'if not' construction. This phenomenon is not noticed in languages such as English, Japanese, Mandarin, or French for instance. Such bi-morphemic disjunction expressions are seen in other Indian languages too. Such as Meitei, a north-east Indian language, uses the word '_natraga_' or '_natradi_' to refer to disjunction which too have the 'if-not' meaning. For example, '_natra_' means 'not' and '_ga_' is a conditional bound morpheme. <br> 
+&nbsp; &nbsp; &nbsp; I aim to investigate why there is more than one expression for simple disjunction in these languages and how they are used - especially what significance the 'if-not' construction holds in these languages. My greater objective is to see how the information can feed/counter the existing theories about the human language faculty. 
 
 &nbsp;    
 
 
-&nbsp;
+
