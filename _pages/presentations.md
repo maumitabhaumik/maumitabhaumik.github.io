@@ -9,7 +9,7 @@ author_profile: true
 <h1> <span style="color: #3498DB ;">Talks and Posters </span> </h1> 
 
 - Difficulty in accessing the scalar alternative: What does children’s spontaneous feedback reveal?
-   <ul> <li> Poster at <em>Sinn und Bedeutung 30 (SuB30),</em>, Goethe University, Frankfurt, Frankfurt. 2025. [<a>Poster</a>] </li> </ul>
+   <ul> <li> Poster at <em>Sinn und Bedeutung 30 (SuB30)</em>, Goethe University, Frankfurt, Frankfurt. 2025. [<a>Poster</a>] </li> </ul>
    <ul> <li> Poster at the <em>11th Biennial Experimental Pragmatics Conference (XPRAG 2025),</em>, University of Cambridge, UK. 2025. [<a>Poster</a>] </li> </ul>
    <ul> <li> Talk at the <em>XPRAG Fest 2025 - Experiments on the Semantics/Pragmatics Interface</em>, Leibniz-ZAS, Berlin. 2025. [<a>Paper</a>] </li> </ul>
 
