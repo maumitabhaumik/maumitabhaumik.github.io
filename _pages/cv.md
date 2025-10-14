@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,10 +14,9 @@ redirect_from:
   <img align="right" width="250" height="286" src="/CV_photo.jpg">
   </body>
 </html> -->
+ 
 
-&nbsp;    
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Click here to view my CV]()
+&nbsp; &nbsp; &nbsp; &nbsp; [Click here to view my CV]()
 
 <!-- <h4>Click the above link to view my CV</h4>  --> 
 
