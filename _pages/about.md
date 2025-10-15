@@ -9,7 +9,7 @@ redirect_from:
 
 <h1> <span style="color: #3498DB ;">About me</span> </h1>  
 
-<!-- Hello! I am a linguistics researcher based in India.--> Hi! I am Maumita. I am an incoming postdoctoral researcher at the Leibniz-Centre General Linguistics in Berlin. I recently earned my Ph.D. in Linguistics from the English and Foreign Languages University in Hyderabad, India, and previously completed my M.A. in Linguistics at the Jawaharlal Nehru University in New Delhi.  
+<!-- Hello! I am a linguistics researcher based in India.--> Hi! I am Maumita. I am an incoming postdoctoral researcher at the Leibniz-Centre General Linguistics in Berlin as a Humboldt Research Fellow. I recently earned my Ph.D. in Linguistics from the English and Foreign Languages University in Hyderabad, India, and previously completed my M.A. in Linguistics at the Jawaharlal Nehru University in New Delhi.  
 
 My research focuses on language processing in children and adults, with special attention to their comprehension of meaning in verbal communication. <!--I am particularly fascinated by the intricate interplay between semantics and pragmatics in meaning interpretation.--> 
 I study the comprehension of logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and use experimental methods to study their processes. 
@@ -21,6 +21,7 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 <h1> <span style="color: #3498DB ;">Updates!</span> </h1> 
 
+- In April 2026, I am joining the Leibniz-Centre General Linguistics (ZAS) as a postdoctoral researcher. 
 - I have been awarded the _Paula Menyuk Award_ to attend BUCLD-50. 
 - Abstract (with Masoud Jasbi) accepted for a Poster at the <a href="https://www.bu.edu/bucld/" target="_blank" rel="noopener noreferrer">_50th Boston University Conference on Language Development_</a>
 - I have successfully defended my Ph.D. dissertation on 28 July 2025.
