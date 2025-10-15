@@ -21,8 +21,9 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 <h1> <span style="color: #3498DB ;">Updates!</span> </h1> 
 
-- In April 2026, I am joining the <a href="https://www.leibniz-zas.de/en/" target="_blank" rel="noopener noreferrer">_Leibniz-Centre General Linguistics (ZAS)_</a> as a postdoctoral researcher. 
 - I have been awarded the _Paula Menyuk Award_ to attend BUCLD-50. 
+- In April 2026, I am joining the <a href="https://www.leibniz-zas.de/en/" target="_blank" rel="noopener noreferrer">_Leibniz-Centre General Linguistics (ZAS)_</a> as a postdoctoral researcher.
+- In November 2025, I will begin an intensive German language course at the <a href="https://www.carl-duisberg-language-courses.com/locations/berlin" target="_blank" rel="noopener noreferrer">_Carl Duisberg Centrum in Berlin_</a>. 
 - Abstract (with Masoud Jasbi) accepted for a Poster at the <a href="https://www.bu.edu/bucld/" target="_blank" rel="noopener noreferrer">_50th Boston University Conference on Language Development_</a>
 - I have successfully defended my Ph.D. dissertation on 28 July 2025.
 - Manuscript published in <a href="https://doi.org/10.1177/01427237251347860" target="_blank" rel="noopener noreferrer">_First Language_</a>
