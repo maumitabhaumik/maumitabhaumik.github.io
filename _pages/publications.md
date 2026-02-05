@@ -17,9 +17,9 @@ hide_title: true
 
 <h1> <span style="color: #3498DB ;">Conference proceedings </span> </h1> 
 
-- Moving beyond forced-choice: A fresh perspective on children's disjunction comprehension. In _Proceedings of the 50th Boston University conference on language development_. Somerville, MA: Cascadilla Press. [forthcoming]  
+- (_with_ Masoud Jasbi) Moving beyond forced-choice: A fresh perspective on children's disjunction comprehension. In _Proceedings of the 50th Boston University conference on language development_. Somerville, MA: Cascadilla Press. [forthcoming]  
 
-- (_with_ Masoud Jasbi) Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance. In _Proceedings of the 49th Boston University conference on language development_. Vol. 1, pp. 87–100, Somerville, MA: Cascadilla Press. <a href="https://www.lingref.com/bucld/49/BUCLD49-07.pdf" target="_blank" rel="noopener noreferrer">pdf</a>  
+- Children’s derivation of scalar inference from or-sentences: Evidence from varying the degree of relevance. In _Proceedings of the 49th Boston University conference on language development_. Vol. 1, pp. 87–100, Somerville, MA: Cascadilla Press. <a href="https://www.lingref.com/bucld/49/BUCLD49-07.pdf" target="_blank" rel="noopener noreferrer">pdf</a>  
 
 
 
