@@ -10,7 +10,7 @@ hide_title: true
  
 <h1> <span style="color: #3498DB ;">Journal articles </span> </h1> 
 
-- Bengali-speaking children’s comprehension of disjunction. _First Language_. Vol. 46(1), 3-19. <a href="https://doi.org/10.1177/01427237251347860" target="_blank" rel="noopener noreferrer">https://doi.org/10.1177/01427237251347860</a> 
+- Bengali-speaking children’s comprehension of disjunction. _First Language_. Vol. 46(1), pp. 3-19. <a href="https://doi.org/10.1177/01427237251347860" target="_blank" rel="noopener noreferrer">https://doi.org/10.1177/01427237251347860</a> 
 
 
 &nbsp; 
