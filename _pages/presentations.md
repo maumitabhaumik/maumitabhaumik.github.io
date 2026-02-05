@@ -10,7 +10,7 @@ hide_title: true
 <h1> <span style="color: #3498DB ;">Talks and Posters </span> </h1> 
 
 - Moving beyond forced-choice: A fresh perspective on children’s disjunction comprehension. (_with_ Masoud Jasbi)
-   <ul> <li> Poster at the <em>50th Annual Boston University Conference on Language Development (BUCLD-49)</em>, Boston University. 2025. [<a>Poster</a>] </li> </ul>
+   <ul> <li> Poster at the <em>50th Annual Boston University Conference on Language Development (BUCLD-50)</em>, Boston University. 2025. [<a>Poster</a>] </li> </ul>
 
 - Difficulty in accessing the scalar alternative: What does children’s spontaneous feedback reveal?
    <ul> <li> Poster at <em>Sinn und Bedeutung 30 (SuB30)</em>, Goethe University, Frankfurt. 2025. [<a>Poster</a>] </li> </ul>
