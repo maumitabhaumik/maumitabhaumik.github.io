@@ -21,6 +21,7 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 <h1> <span style="color: #3498DB ;">Updates!</span> </h1> 
 
+- Abstract (with Uli Sauerland) accepted for a Talk at <a href="https://sites.google.com/view/sub31nantes/" target="_blank" rel="noopener noreferrer">_Sinn und Bedeutung 31_</a>.
 - I have been awarded the _Paula Menyuk Award_ to attend BUCLD-50. 
 - In April 2026, I am joining the <a href="https://www.leibniz-zas.de/en/" target="_blank" rel="noopener noreferrer">Leibniz-Centre General Linguistics (ZAS)</a> as a postdoctoral researcher. 
 - Abstract (with Masoud Jasbi) accepted for a Poster at the <a href="https://www.bu.edu/bucld/" target="_blank" rel="noopener noreferrer">_50th Boston University Conference on Language Development_</a>
